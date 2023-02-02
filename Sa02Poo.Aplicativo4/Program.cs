@@ -11,10 +11,15 @@ namespace Sa02Poo.Aplicativo4
     {
         static void Main(string[] args)
         {
-            int valor = 5000;
-            Aplicativo4RN app4= new Aplicativo4RN();
+            decimal valor = 5000;
+            Console.WriteLine("Temos R$5000 e vamos dividir para 10 clientes! ");
+            Aplicativo4RN app4 = new Aplicativo4RN();
 
-            Console.WriteLine("Valor para cada cliente: "+app4.dividir(valor));
+            Console.Write("Valor para cada cliente: R$");
+            Console.ForegroundColor = ConsoleColor.Green;
+            Console.Write(+app4.dividir(valor));
+            Console.ResetColor();
+            Console.ReadKey();  
         }
     }
 }

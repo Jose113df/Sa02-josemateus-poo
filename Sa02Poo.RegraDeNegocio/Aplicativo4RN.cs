@@ -8,9 +8,9 @@ namespace Sa02Poo.RegraDeNegocio
 {
     public class Aplicativo4RN
     {
-        public decimal dividir(v1) 
+        public decimal dividir(decimal v1) 
         {
-        
+            return v1 / 10;
         
         }
     }
