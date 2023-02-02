@@ -1,0 +1,11 @@
+C:\Users\theso\source\repos\Sa02Poo\Sa02Poo.Aplicativo7\bin\Debug\Sa02Poo.Aplicativo7.exe.config
+C:\Users\theso\source\repos\Sa02Poo\Sa02Poo.Aplicativo7\bin\Debug\Sa02Poo.Aplicativo7.exe
+C:\Users\theso\source\repos\Sa02Poo\Sa02Poo.Aplicativo7\bin\Debug\Sa02Poo.Aplicativo7.pdb
+C:\Users\theso\source\repos\Sa02Poo\Sa02Poo.Aplicativo7\bin\Debug\Sa02Poo.RegraDeNegocio.dll
+C:\Users\theso\source\repos\Sa02Poo\Sa02Poo.Aplicativo7\bin\Debug\Sa02Poo.RegraDeNegocio.pdb
+C:\Users\theso\source\repos\Sa02Poo\Sa02Poo.Aplicativo7\obj\Debug\Sa02Poo.Aplicativo7.csproj.AssemblyReference.cache
+C:\Users\theso\source\repos\Sa02Poo\Sa02Poo.Aplicativo7\obj\Debug\Sa02Poo.Aplicativo7.csproj.SuggestedBindingRedirects.cache
+C:\Users\theso\source\repos\Sa02Poo\Sa02Poo.Aplicativo7\obj\Debug\Sa02Poo.Aplicativo7.csproj.CoreCompileInputs.cache
+C:\Users\theso\source\repos\Sa02Poo\Sa02Poo.Aplicativo7\obj\Debug\Sa02Poo.Aplicativo7.csproj.CopyComplete
+C:\Users\theso\source\repos\Sa02Poo\Sa02Poo.Aplicativo7\obj\Debug\Sa02Poo.Aplicativo7.exe
+C:\Users\theso\source\repos\Sa02Poo\Sa02Poo.Aplicativo7\obj\Debug\Sa02Poo.Aplicativo7.pdb

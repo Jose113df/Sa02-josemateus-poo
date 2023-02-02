@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sa02Poo.Aplicativo4", "Sa02
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sa02Poo.Aplicativo6", "Sa02Poo.Aplicativo6\Sa02Poo.Aplicativo6.csproj", "{83D719A3-E82F-41BD-A67C-482A020485A3}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sa02Poo.Aplicativo7", "Sa02Poo.Aplicativo7\Sa02Poo.Aplicativo7.csproj", "{EE3BAA31-FBC3-493D-851D-70F46E4D5587}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +35,10 @@ Global
 		{83D719A3-E82F-41BD-A67C-482A020485A3}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{83D719A3-E82F-41BD-A67C-482A020485A3}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{83D719A3-E82F-41BD-A67C-482A020485A3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EE3BAA31-FBC3-493D-851D-70F46E4D5587}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EE3BAA31-FBC3-493D-851D-70F46E4D5587}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EE3BAA31-FBC3-493D-851D-70F46E4D5587}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EE3BAA31-FBC3-493D-851D-70F46E4D5587}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
