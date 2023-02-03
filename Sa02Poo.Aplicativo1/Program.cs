@@ -15,10 +15,10 @@ namespace Sa02Poo.Aplicativo1
             do
             {
 
-                Console.WriteLine("Digite ovalor do PRIMEIRO avião ");
+                Console.WriteLine("Digite o valor do PRIMEIRO avião ");
                 aviao1 = decimal.Parse(Console.ReadLine());
 
-                Console.WriteLine("Digite ovalor do SEGUNDO avião ");
+                Console.WriteLine("Digite o valor do SEGUNDO avião ");
                 aviao2 = decimal.Parse(Console.ReadLine());
 
                 if (aviao1 <= 0||aviao2<=0)
