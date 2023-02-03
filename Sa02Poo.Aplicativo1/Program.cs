@@ -5,19 +5,37 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Sa02Poo.Aplicativo2
+namespace Sa02Poo.Aplicativo1
 {
     internal class Program
     {
         static void Main(string[] args)
         {
-            int anoAtual;
-            Console.WriteLine("Qual o ano atual? ");
-            anoAtual = int.Parse(Console.ReadLine());
-            Aplicativo2RN app2 = new Aplicativo2RN();
+            decimal aviao1 = 0, aviao2 = 0;
+            do
+            {
 
-            Console.WriteLine("O resultado da subtração é "+app2.Subtracao(anoAtual));
-            Console.ReadKey();
+                Console.WriteLine("Digite ovalor do PRIMEIRO avião ");
+                aviao1 = decimal.Parse(Console.ReadLine());
+
+                Console.WriteLine("Digite ovalor do SEGUNDO avião ");
+                aviao2 = decimal.Parse(Console.ReadLine());
+
+                if (aviao1 <= 0||aviao2<=0)
+                {
+                    Console.Clear();
+                    Console.WriteLine("Digite um numero VALIDO ");
+
+                }
+            }
+            while (aviao1 <= 0 || aviao2 <= 0);
+
+            Aplicativo1RN app1= new Aplicativo1RN();
+            Console.Write("O valor total da soma dos Aviões são: ");
+            Console.ForegroundColor= ConsoleColor.Green;   
+            Console.WriteLine(app1.SomarValor(aviao1,aviao2));
+            Console.ResetColor();
+            Console.ReadLine();
         }
     }
 }

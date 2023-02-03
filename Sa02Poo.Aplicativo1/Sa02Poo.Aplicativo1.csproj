@@ -4,16 +4,17 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{7C4F23E0-8923-4305-B019-E7A423DDAE3D}</ProjectGuid>
-    <OutputType>Library</OutputType>
-    <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>Sa02Poo.RegraDeNegocio</RootNamespace>
-    <AssemblyName>Sa02Poo.RegraDeNegocio</AssemblyName>
+    <ProjectGuid>{41C6C395-1DD4-418C-BD40-3D8074173888}</ProjectGuid>
+    <OutputType>Exe</OutputType>
+    <RootNamespace>Sa02Poo.Aplicativo1</RootNamespace>
+    <AssemblyName>Sa02Poo.Aplicativo1</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
     <Deterministic>true</Deterministic>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
     <DebugSymbols>true</DebugSymbols>
     <DebugType>full</DebugType>
     <Optimize>false</Optimize>
@@ -23,6 +24,7 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
     <DebugType>pdbonly</DebugType>
     <Optimize>true</Optimize>
     <OutputPath>bin\Release\</OutputPath>
@@ -41,13 +43,17 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Aplicativo1RN.cs" />
-    <Compile Include="Aplicativo2RN.cs" />
-    <Compile Include="Aplicativo3RN.cs" />
-    <Compile Include="Aplicativo4RN.cs" />
-    <Compile Include="Aplicativo6RN.cs" />
-    <Compile Include="Aplicativo7RN.cs" />
+    <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Sa02Poo.RegraDeNegocio\Sa02Poo.RegraDeNegocio.csproj">
+      <Project>{7c4f23e0-8923-4305-b019-e7a423ddae3d}</Project>
+      <Name>Sa02Poo.RegraDeNegocio</Name>
+    </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

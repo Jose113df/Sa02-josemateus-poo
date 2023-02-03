@@ -1,0 +1,11 @@
+C:\Users\theso\source\repos\Sa02Poo\Sa02Poo.Aplicativo2\bin\Debug\Sa02Poo.Aplicativo2.exe.config
+C:\Users\theso\source\repos\Sa02Poo\Sa02Poo.Aplicativo2\bin\Debug\Sa02Poo.Aplicativo2.exe
+C:\Users\theso\source\repos\Sa02Poo\Sa02Poo.Aplicativo2\bin\Debug\Sa02Poo.Aplicativo2.pdb
+C:\Users\theso\source\repos\Sa02Poo\Sa02Poo.Aplicativo2\bin\Debug\Sa02Poo.RegraDeNegocio.dll
+C:\Users\theso\source\repos\Sa02Poo\Sa02Poo.Aplicativo2\bin\Debug\Sa02Poo.RegraDeNegocio.pdb
+C:\Users\theso\source\repos\Sa02Poo\Sa02Poo.Aplicativo2\obj\Debug\Sa02Poo.Aplicativo2.csproj.AssemblyReference.cache
+C:\Users\theso\source\repos\Sa02Poo\Sa02Poo.Aplicativo2\obj\Debug\Sa02Poo.Aplicativo2.csproj.SuggestedBindingRedirects.cache
+C:\Users\theso\source\repos\Sa02Poo\Sa02Poo.Aplicativo2\obj\Debug\Sa02Poo.Aplicativo2.csproj.CoreCompileInputs.cache
+C:\Users\theso\source\repos\Sa02Poo\Sa02Poo.Aplicativo2\obj\Debug\Sa02Poo.Aplicativo2.csproj.CopyComplete
+C:\Users\theso\source\repos\Sa02Poo\Sa02Poo.Aplicativo2\obj\Debug\Sa02Poo.Aplicativo2.exe
+C:\Users\theso\source\repos\Sa02Poo\Sa02Poo.Aplicativo2\obj\Debug\Sa02Poo.Aplicativo2.pdb
