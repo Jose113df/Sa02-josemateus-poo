@@ -16,7 +16,7 @@ namespace Sa02Poo.Aplicativo2
             anoAtual = int.Parse(Console.ReadLine());
             Aplicativo2RN app2 = new Aplicativo2RN();
 
-            Console.WriteLine("O resultado da subtração é "+app2.subtracao(anoAtual));
+            Console.WriteLine("O resultado da subtração é "+app2.Subtracao(anoAtual));
             Console.ReadKey();
         }
     }

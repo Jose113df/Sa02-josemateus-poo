@@ -45,7 +45,7 @@ namespace Sa02Poo.Aplicativo7
                 Console.Clear();
                 Console.Write("Valor total das peças: R$");
                 Console.ForegroundColor = ConsoleColor.Green;
-                Console.WriteLine(app7.somaPecas(preco1, preco2, preco3, preco4, preco5));
+                Console.WriteLine(app7.SomaPecas(preco1, preco2, preco3, preco4, preco5));
                 Console.ResetColor();
                 Console.WriteLine("---------------------------");
                 Console.WriteLine("Deseja reiniciar o programa? ");

@@ -24,7 +24,7 @@ namespace Sa02Poo.Aplicativo6
 
             Console.Write("O preço total é ");
             Console.ForegroundColor = ConsoleColor.Green;
-            Console.Write(app6.calculo(precoUnitario, qtdeFrota));
+            Console.Write(app6.Calculo(precoUnitario, qtdeFrota));
             Console.ResetColor();
             Console.ReadLine();
                

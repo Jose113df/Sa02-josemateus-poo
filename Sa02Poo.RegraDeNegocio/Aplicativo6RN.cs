@@ -9,7 +9,7 @@ namespace Sa02Poo.RegraDeNegocio
 {
     public class Aplicativo6RN
     {
-        public decimal calculo(decimal preco, decimal qtde)
+        public decimal Calculo(decimal preco, decimal qtde)
         {
 
            return preco * qtde;

@@ -8,7 +8,7 @@ namespace Sa02Poo.RegraDeNegocio
 {
     public class Aplicativo2RN
     {
-        public int subtracao(int ano)
+        public int Subtracao(int ano)
         {
             return ano - 1968;
 

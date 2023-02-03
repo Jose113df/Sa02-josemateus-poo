@@ -17,7 +17,7 @@ namespace Sa02Poo.Aplicativo4
 
             Console.Write("Valor para cada cliente: R$");
             Console.ForegroundColor = ConsoleColor.Green;
-            Console.Write(+app4.dividir(valor));
+            Console.Write(+app4.Dividir(valor));
             Console.ResetColor();
             Console.ReadKey();  
         }
